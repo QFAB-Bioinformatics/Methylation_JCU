@@ -2,15 +2,15 @@
 Methylation Project (JCU)
 
 # Requirement
-Java >= v1.8.0_74
-FastQC >= v0.11.9
-Bismark >= v.022.3
-Samtools >= v1.5
-Bedtools >= v2.17.0
-Minimap2 >= v2.17
-Bowtie2 >= v2.2.3
-Github >= v2.20.2 
-R >= v3.0
+ - Java >= v1.8.0_74
+ - FastQC >= v0.11.9
+ - Bismark >= v.022.3
+ - Samtools >= v1.5
+ - Bedtools >= v2.17.0
+ - Minimap2 >= v2.17
+ - Bowtie2 >= v2.2.3
+ - Github >= v2.20.2 
+ - R >= v3.0
 
 # Install tools in linux (Ubuntu) environment 
 Github 
