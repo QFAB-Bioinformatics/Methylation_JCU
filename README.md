@@ -63,3 +63,7 @@ This github repository contains bash scripts for methylation study. User can run
    - data/fish_sex_genes_TSS_300up_200down.bed  # 300bp upstream and 200bp down of TSS of each gene
    - subsetTSSsequence.sh                       # Script to obtain sequences (FASTA) located around TSS area if needed
  
+# Download scripts
+  - mkdir pipeline                                                    # create a new folder in a local machine
+  - cd pipeline                                                       # change directory
+  - git clone https://github.com/QFAB-Bioinformatics/Methylation_JCU  # download this repo to local machine
